@@ -135,7 +135,7 @@ function Footer() {
             {/* Social links */}
             <div className="flex items-center gap-3">
               <a
-                href="#"
+                href="https://wa.me/message/GHNINXCKR2KPB1"
                 aria-label="WhatsApp"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-[var(--cc-border)] text-[var(--cc-muted)] transition hover:border-[var(--cc-accent)] hover:text-[var(--cc-accent)]"
               >
@@ -143,7 +143,7 @@ function Footer() {
               </a>
 
               <a
-                href="#"
+                href="https://www.instagram.com/ceejayconcepts?xtok=ajZlcXQyazJiN2J0&utm_source=qr"
                 aria-label="Instagram"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-[var(--cc-border)] text-[var(--cc-muted)] transition hover:border-[var(--cc-accent)] hover:text-[var(--cc-accent)]"
               >
