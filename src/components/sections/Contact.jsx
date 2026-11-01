@@ -48,7 +48,7 @@ function Contact() {
                   </p>
 
                   <a
-                    href="mailto:hello@ceejayconcepts.com"
+                    href="mailto:ceejayconcepts01@gmail.com"
                     className="mt-1 block text-sm text-[var(--cc-white)] transition hover:text-[var(--cc-accent)]"
                   >
                     ceejayconcepts01@gmail.com
