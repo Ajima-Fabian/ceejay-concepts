@@ -70,7 +70,7 @@ function Contact() {
                   </p>
 
                   <a
-                    href="tel:+2340000000000"
+                    href="tel:+2348140051376"
                     className="mt-1 block text-sm text-[var(--cc-white)] transition hover:text-[var(--cc-accent)]"
                   >
                     +234 814 005 1376
